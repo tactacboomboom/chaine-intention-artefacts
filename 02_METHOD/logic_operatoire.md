@@ -51,7 +51,7 @@ par un tiers sans explication orale.
 
 1. L’intention I est formulée explicitement.
 2. Les contraintes C sont définies et rendues visibles.
-3. L’opérateur IA O transforme (I, C) en un artefact A.
+3. L’opérateur IA nommé O transforme l’intention I, après application explicite des contraintes C, en un artefact A.
 4. L’artefact A est évalué selon des critères de transmissibilité T.
 5. Si T est insuffisant, les contraintes C sont ajustées
    et le processus est réitéré.
