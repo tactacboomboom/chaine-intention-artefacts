@@ -19,13 +19,13 @@ en artefacts transmissibles, avec l’IA comme opérateur intermédiaire sous co
 - `02_METHOD/logic_operatoire.md`
 
 ### 3) Voir un exemple complet
-- `03_EXAMPLES/` (à venir)
+- `03_EXAMPLES/`
 
 ### 4) Tester la transmissibilité
-- `04_TESTS/` (à venir)
+- `04_TESTS/`
 
 ### 5) Suivre un chemin de lecture
-- `05_PATHS/` (à venir)
+- `05_PATHS/`
 
 ### 6) Suivre l’évolution du dépôt
-- `06_CHANGELOG/` (à venir)
+- `06_CHANGELOG/`
