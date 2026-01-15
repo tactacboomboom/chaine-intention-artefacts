@@ -39,7 +39,7 @@ Dans ce dépôt, **O** est implémenté par une IA textuelle.
 - Critère de validation clair.
 
 **Étape C — Produire**
-Rédiger le contenu en respectant strictement les contraintes listées.
+- Rédiger le contenu en respectant strictement les contraintes listées.
 
 ---
 
