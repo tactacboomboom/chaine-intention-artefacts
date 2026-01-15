@@ -28,4 +28,4 @@ en artefacts transmissibles, avec l’IA comme opérateur intermédiaire sous co
 - `05_PATHS/`
 
 ### 6) Suivre l’évolution du dépôt
-- `06_CHANGELOG/`
+- `06_CHANGELOG/` (à venir)
